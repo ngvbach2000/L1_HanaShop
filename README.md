@@ -1,4 +1,4 @@
-# Armor Management 
+# HanaShop
 Lab 1: HanaShop 
 (Java Web)
 
